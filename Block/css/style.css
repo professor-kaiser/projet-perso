@@ -1,0 +1,35 @@
+#blur {
+	display: none; /* ne pas afficher */
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 100;
+}
+/*
+body {
+	display: table-column;
+}
+*/
+
+.lock {
+	display: none; /* ne pas afficher */
+	background-color: white;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	/*height: 90%;*/
+	z-index: 9999;
+	overflow: scroll;
+}
+
+#close-block:hover {
+	cursor: pointer;
+}
+
+#loading-block, #set-password {
+	display: none;
+}

@@ -1,0 +1,13 @@
+CREATE USER IF NOT EXISTS fw@localhost IDENTIFIED BY "P@55w0rd";
+GRANT ALL PRIVILEGES ON firewall.* TO fw@localhost;
+
+CREATE DATABASE IF NOT EXISTS firewall;
+USE firewall;
+
+CREATE TABLE IF NOT EXISTS Blocked (
+	id INT AUTO_INCREMENT,
+	url VARCHAR(255) NOT NULL,
+	action_date DATETIME NOT NULL,
+
+	PRIMARY KEY (id)
+);
