@@ -1,0 +1,21 @@
+{
+	'type': 3, 
+	'columns': ['id', 'name'], 
+	'table': 'client', 
+	'conditions': 
+		[
+			{'condition': 
+				[
+					[
+						{'column': 'name', 'operator': '=', 'value': 'Jean'}, 
+						'AND', 
+						{'column': 'id', 'operator': '=', 'value': 1}
+					], 
+					'OR', 
+					{'column': 'id', 'operator': '=', 'value': 2}
+			]}, 
+			'OR', 
+			{'condition': 
+				{'column': 'name', 'operator': '=', 'value': 'Kiki'}
+			}
+		]}

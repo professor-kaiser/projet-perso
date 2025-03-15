@@ -1,0 +1,1 @@
+{"type": 1, "table": "client", "columns": [{"name": "id", "datatype": "INTEGER"}, {"name": "name", "datatype": "CHARACTER"}, {"name": "numero", "datatype": "INTEGER"}]}

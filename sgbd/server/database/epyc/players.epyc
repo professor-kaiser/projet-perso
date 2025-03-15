@@ -1,0 +1,1 @@
+{"type": 1, "table": "players", "columns": [{"name": "id", "datatype": "INTEGER"}, {"name": "pseudo", "datatype": "CHARACTER"}]}
