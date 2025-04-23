@@ -1,0 +1,46 @@
+23:23:00: Creating resource group General
+23:23:00: Creating resource group OgreInternal
+23:23:00: Creating resource group OgreAutodetect
+23:23:00: Registering ResourceManager for type Mesh
+23:23:00: Registering ResourceManager for type Material
+23:23:00: Registering ResourceManager for type Skeleton
+23:23:00: XMLSkeletonSerializer: reading XML data from /home/professor/Documents/L3/Ogre/Template/media/models/Mono/SKM_Player02.md.skeleton.xml...
+23:23:00: XMLSkeletonSerializer: Reading Bones name...
+23:23:00: XMLSkeletonSerializer: Reading Hierarchy data...
+23:23:00: XMLSkeletonSerializer: Reading Bones data...
+23:23:00: XMLSkeletonSerializer: Reading Animations data...
+23:23:00: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+23:23:00: Exporting bones..
+23:23:00: Bones exported.
+23:23:00: Exporting animations, count=14
+23:23:00: Exporting animation: ANIM_Player_StairsCrouchSneakSl
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_StairsRunUp
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_StandIdleLookAround
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_StumbleFallLong
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_StumbleJog
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_ThinmanShowdown_Spa
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_TrainRideCrashHit
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_TrainRideFallDown
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_TrainRideIdle
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_TrappedInBathroom_H
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_TrappedInNetTrap
+23:23:00: Animation exported.
+23:23:00: Exporting animation: ANIM_Player_Trashcan_AdditiveHi
+23:23:00: Animation exported.
+23:23:00: Exporting animation: SKM_Player02.ao|ANIM_Player_SwingJump
+23:23:00: Animation exported.
+23:23:00: Exporting animation: |ANIM_Player_ThrowPrepareAdd
+23:23:00: Animation exported.
+23:23:00: Unregistering ResourceManager for type Skeleton
+23:23:00: Unregistering ResourceManager for type Material
+23:23:00: Unregistering ResourceManager for type Mesh

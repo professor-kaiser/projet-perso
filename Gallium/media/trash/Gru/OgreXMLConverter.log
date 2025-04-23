@@ -1,0 +1,116 @@
+23:26:58: Creating resource group General
+23:26:58: Creating resource group OgreInternal
+23:26:58: Creating resource group OgreAutodetect
+23:26:58: Registering ResourceManager for type Mesh
+23:26:58: Registering ResourceManager for type Material
+23:26:58: Registering ResourceManager for type Skeleton
+23:26:58: XMLSkeletonSerializer writing  skeleton data to /home/professor/Documents/L3/Ogre/Template/media/models/Gru/gru.skeleton.xml...
+23:26:58: Populating DOM...
+23:26:58: Exporting bones..
+23:26:58: There are 91 bones.
+23:26:58:    Exporting Bone number 0
+23:26:58:    Exporting Bone number 1
+23:26:58:    Exporting Bone number 2
+23:26:58:    Exporting Bone number 3
+23:26:58:    Exporting Bone number 4
+23:26:58:    Exporting Bone number 5
+23:26:58:    Exporting Bone number 6
+23:26:58:    Exporting Bone number 7
+23:26:58:    Exporting Bone number 8
+23:26:58:    Exporting Bone number 9
+23:26:58:    Exporting Bone number 10
+23:26:58:    Exporting Bone number 11
+23:26:58:    Exporting Bone number 12
+23:26:58:    Exporting Bone number 13
+23:26:58:    Exporting Bone number 14
+23:26:58:    Exporting Bone number 15
+23:26:58:    Exporting Bone number 16
+23:26:58:    Exporting Bone number 17
+23:26:58:    Exporting Bone number 18
+23:26:58:    Exporting Bone number 19
+23:26:58:    Exporting Bone number 20
+23:26:58:    Exporting Bone number 21
+23:26:58:    Exporting Bone number 22
+23:26:58:    Exporting Bone number 23
+23:26:58:    Exporting Bone number 24
+23:26:58:    Exporting Bone number 25
+23:26:58:    Exporting Bone number 26
+23:26:58:    Exporting Bone number 27
+23:26:58:    Exporting Bone number 28
+23:26:58:    Exporting Bone number 29
+23:26:58:    Exporting Bone number 30
+23:26:58:    Exporting Bone number 31
+23:26:58:    Exporting Bone number 32
+23:26:58:    Exporting Bone number 33
+23:26:58:    Exporting Bone number 34
+23:26:58:    Exporting Bone number 35
+23:26:58:    Exporting Bone number 36
+23:26:58:    Exporting Bone number 37
+23:26:58:    Exporting Bone number 38
+23:26:58:    Exporting Bone number 39
+23:26:58:    Exporting Bone number 40
+23:26:58:    Exporting Bone number 41
+23:26:58:    Exporting Bone number 42
+23:26:58:    Exporting Bone number 43
+23:26:58:    Exporting Bone number 44
+23:26:58:    Exporting Bone number 45
+23:26:58:    Exporting Bone number 46
+23:26:58:    Exporting Bone number 47
+23:26:58:    Exporting Bone number 48
+23:26:58:    Exporting Bone number 49
+23:26:58:    Exporting Bone number 50
+23:26:58:    Exporting Bone number 51
+23:26:58:    Exporting Bone number 52
+23:26:58:    Exporting Bone number 53
+23:26:58:    Exporting Bone number 54
+23:26:58:    Exporting Bone number 55
+23:26:58:    Exporting Bone number 56
+23:26:58:    Exporting Bone number 57
+23:26:58:    Exporting Bone number 58
+23:26:58:    Exporting Bone number 59
+23:26:58:    Exporting Bone number 60
+23:26:58:    Exporting Bone number 61
+23:26:58:    Exporting Bone number 62
+23:26:58:    Exporting Bone number 63
+23:26:58:    Exporting Bone number 64
+23:26:58:    Exporting Bone number 65
+23:26:58:    Exporting Bone number 66
+23:26:58:    Exporting Bone number 67
+23:26:58:    Exporting Bone number 68
+23:26:58:    Exporting Bone number 69
+23:26:58:    Exporting Bone number 70
+23:26:58:    Exporting Bone number 71
+23:26:58:    Exporting Bone number 72
+23:26:58:    Exporting Bone number 73
+23:26:58:    Exporting Bone number 74
+23:26:58:    Exporting Bone number 75
+23:26:58:    Exporting Bone number 76
+23:26:58:    Exporting Bone number 77
+23:26:58:    Exporting Bone number 78
+23:26:58:    Exporting Bone number 79
+23:26:58:    Exporting Bone number 80
+23:26:58:    Exporting Bone number 81
+23:26:58:    Exporting Bone number 82
+23:26:58:    Exporting Bone number 83
+23:26:58:    Exporting Bone number 84
+23:26:58:    Exporting Bone number 85
+23:26:58:    Exporting Bone number 86
+23:26:58:    Exporting Bone number 87
+23:26:58:    Exporting Bone number 88
+23:26:58:    Exporting Bone number 89
+23:26:58:    Exporting Bone number 90
+23:26:58: Bones exported.
+23:26:58: Exporting animations, count=4
+23:26:58: Exporting animation: dancing
+23:26:58: Animation exported.
+23:26:58: Exporting animation: hipop
+23:26:59: Animation exported.
+23:26:59: Exporting animation: idle-victory
+23:26:59: Animation exported.
+23:26:59: Exporting animation: runfast
+23:26:59: Animation exported.
+23:26:59: DOM populated, writing XML file..
+23:26:59: XMLSkeletonSerializer export successful.
+23:26:59: Unregistering ResourceManager for type Skeleton
+23:26:59: Unregistering ResourceManager for type Material
+23:26:59: Unregistering ResourceManager for type Mesh

@@ -1,0 +1,24 @@
+21:08:27: Creating resource group General
+21:08:27: Creating resource group OgreInternal
+21:08:27: Creating resource group OgreAutodetect
+21:08:27: Registering ResourceManager for type Mesh
+21:08:27: Registering ResourceManager for type Material
+21:08:27: Registering ResourceManager for type Skeleton
+21:08:27: XMLSkeletonSerializer: reading XML data from /home/professor/Documents/L3/Ogre/Template/media/models/city/VLN.skeleton.xml...
+21:08:27: XMLSkeletonSerializer: Reading Bones name...
+21:08:27: XMLSkeletonSerializer: Reading Hierarchy data...
+21:08:27: XMLSkeletonSerializer: Reading Bones data...
+21:08:27: XMLSkeletonSerializer: Reading Animations data...
+21:08:27: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+21:08:27: Exporting bones..
+21:08:27: Bones exported.
+21:08:27: Exporting animations, count=3
+21:08:27: Exporting animation: idle
+21:08:27: Animation exported.
+21:08:27: Exporting animation: jump
+21:08:27: Animation exported.
+21:08:27: Exporting animation: run
+21:08:27: Animation exported.
+21:08:27: Unregistering ResourceManager for type Skeleton
+21:08:27: Unregistering ResourceManager for type Material
+21:08:27: Unregistering ResourceManager for type Mesh

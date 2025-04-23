@@ -1,0 +1,22 @@
+properties:
+    mesh: "VLN.002.mesh"
+    speed: 800
+    scale: 1
+    mass: 12
+    position: {x: 5500, y: 200, z: -2000}
+
+    animations:
+        - action: "RUN"
+          code: 'a'
+          name: "run"
+          loop: true
+
+        - action: "IDLE"
+          code: 'i'
+          name: "idle"
+          loop: true
+
+        - action: "JUMP"
+          code: 'j'
+          name: "jump"
+          loop: false

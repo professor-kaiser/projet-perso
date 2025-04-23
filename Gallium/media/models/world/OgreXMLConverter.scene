@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.9.0 -->
+<!-- export_time: Thu, 03 Apr 2025 16:48:51 +0000 -->
+<!-- blender_version: 3.6.21 (release; Linux) -->
+<!-- previous_export_time: Thu, 03 Apr 2025 16:42:57 +0000 -->
+<scene author="professor" formatVersion="1.1" >
+  <nodes >
+    <node name="city" >
+      <position x="0.000000" y="0.000000" z="-0.000000" />
+      <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <userData >
+        <property data="15" name="MaxHandle" type="int" />
+      </userData>
+      <entity meshFile="city.mesh" name="city" >
+        <userData />
+      </entity>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="Material_#29.material" />
+    </item>
+    <item type="material" >
+      <file name="Material_#30.material" />
+    </item>
+    <item type="material" >
+      <file name="Material_#28.material" />
+    </item>
+    <item type="material" >
+      <file name="Material_#27.material" />
+    </item>
+    <item type="material" >
+      <file name="Material_#25.material" />
+    </item>
+    <item type="material" >
+      <file name="Material_#31.material" />
+    </item>
+    <item type="material" >
+      <file name="Material_#32.material" />
+    </item>
+    <item type="material" >
+      <file name="Material_#26.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.050876" g="0.050876" r="0.050876" />
+  </environment>
+</scene>

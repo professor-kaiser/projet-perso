@@ -1,0 +1,3 @@
+/home/professor/Documents/L3/Ogre/Gallium/build/CMakeFiles/main.dir
+/home/professor/Documents/L3/Ogre/Gallium/build/CMakeFiles/edit_cache.dir
+/home/professor/Documents/L3/Ogre/Gallium/build/CMakeFiles/rebuild_cache.dir

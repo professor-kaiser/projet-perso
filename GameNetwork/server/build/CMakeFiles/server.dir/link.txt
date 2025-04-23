@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/server.cpp.o CMakeFiles/server.dir/GameServer.cpp.o -o server  -Wl,-rpath,/usr/local/lib /usr/local/lib/libboost_system.so.1.86.0 -lpthread 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.9.0 -->
+<!-- export_time: Fri, 11 Apr 2025 20:49:40 +0000 -->
+<!-- blender_version: 3.6.21 (release; Linux) -->
+<!-- previous_export_time: Fri, 11 Apr 2025 20:47:42 +0000 -->
+<scene author="professor" formatVersion="1.1" >
+  <nodes >
+    <node name="Time_Machine_CAD" >
+      <position x="0.000000" y="0.000000" z="-0.000000" />
+      <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <entity meshFile="Time_Machine_CAD.mesh" name="Time_Machine_CAD" >
+        <userData />
+      </entity>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="metal.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.044455" g="0.043405" r="0.000000" />
+  </environment>
+</scene>

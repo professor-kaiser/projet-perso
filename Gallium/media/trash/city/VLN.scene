@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.9.0 -->
+<!-- export_time: Thu, 03 Apr 2025 18:08:19 +0000 -->
+<!-- blender_version: 3.6.21 (release; Linux) -->
+<!-- previous_export_time: Thu, 03 Apr 2025 17:51:01 +0000 -->
+<scene author="professor" formatVersion="1.1" >
+  <nodes >
+    <node name="Armature" >
+      <position x="0.000000" y="0.000000" z="-0.000000" />
+      <rotation qw="0.707107" qx="0.707107" qy="0.000000" qz="-0.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <node name="VLN" >
+        <position x="-0.000000" y="0.000000" z="0.000000" />
+        <rotation qw="1.000000" qx="-0.000000" qy="-0.000000" qz="0.000000" />
+        <scale x="1.000000" y="1.000000" z="1.000000" />
+        <entity meshFile="VLN.mesh" name="VLN" >
+          <userData />
+        </entity>
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="MAT_Player_Hair_001.004.material" />
+    </item>
+    <item type="material" >
+      <file name="MAT_Player_Coat_011.004.material" />
+    </item>
+    <item type="material" >
+      <file name="MAT_Player_Coat_009.004.material" />
+    </item>
+    <item type="material" >
+      <file name="MAT_Player_Coat_010.004.material" />
+    </item>
+    <item type="material" >
+      <file name="MAT_Player_Body_003.004.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.050876" g="0.050876" r="0.050876" />
+  </environment>
+</scene>

@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.9.0 -->
+<!-- export_time: Fri, 18 Apr 2025 14:28:14 +0000 -->
+<!-- blender_version: 3.6.21 (release; Linux) -->
+<!-- previous_export_time: Fri, 18 Apr 2025 13:59:59 +0000 -->
+<scene author="professor" formatVersion="1.1" >
+  <nodes >
+    <node name="scene" >
+      <position x="0.000000" y="0.000000" z="-0.000000" />
+      <rotation qw="0.707107" qx="0.707107" qy="0.000000" qz="-0.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <node name="Materials" >
+        <position x="0.000000" y="0.000000" z="-0.000000" />
+        <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+        <scale x="1.000000" y="1.000000" z="1.000000" />
+      </node>
+      <node name="Meshes" >
+        <position x="-444.120819" y="248.711731" z="-0.000000" />
+        <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+        <scale x="100.000008" y="100.000000" z="100.000000" />
+        <node name="Sketchfab_model" >
+          <position x="0.000000" y="0.000000" z="0.000000" />
+          <rotation qw="0.707107" qx="-0.707107" qy="0.000000" qz="-0.000000" />
+          <scale x="0.001667" y="0.001667" z="0.001667" />
+          <node name="AmongUs___Mapa_Final_detalles_3ds" >
+            <position x="-0.000244" y="-0.000000" z="-0.000244" />
+            <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+            <scale x="1.000000" y="1.000000" z="1.000000" />
+            <node name="Model" >
+              <position x="0.000000" y="-0.000000" z="-0.000244" />
+              <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+              <scale x="1.000000" y="1.000000" z="1.000000" />
+              <node name="_066_Honey" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_080_DarkC" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_087_Cyan" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_135_DarkG" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_B01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_B05" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_D01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_D04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_H03" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_H04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_I06" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="_Color_M07" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Caja_tex02" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Caja_tex03" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Caja_textu" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_A04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_B05" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_B06" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_C01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_C03" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_D02" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_D04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_E03" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_F04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_F06" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_H01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_H03" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_H04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_I04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_I06" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_I07" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+                <node name="city" >
+                  <position x="0.000244" y="0.000000" z="-0.000000" />
+                  <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                  <scale x="1.000000" y="1.000000" z="1.000000" />
+                  <entity meshFile="city.mesh" name="city" >
+                    <userData />
+                  </entity>
+                </node>
+              </node>
+              <node name="Color_J01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_J02" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_J08" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_K04" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_K08" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_L02" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_L11" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_M00" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_M05" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Color_M08" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Foregrou" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Formica_Bl" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="FrontColor" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Metal_Stee" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="monitor_3" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="motores_pi" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="pared_alma" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="pared_cafe" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="pared_escu" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="paredes_me" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="piso_comun" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="PISO_MED01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="PISO_MED02" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="piso_pasil" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="piso_tex01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="piso_tex02" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="piso_tex03" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="piso_textu" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Quartz_Lig" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="reactor_pa" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="separador" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="textura_ma" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Transluc01" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Translucen" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+              <node name="Water_Dark" >
+                <position x="0.000000" y="-0.000000" z="-0.000000" />
+                <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+                <scale x="1.000000" y="1.000000" z="1.000000" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="text_com.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_B0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_M.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_I0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_F0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="pared_ad.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_K0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="PISO_M02.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_pas.001.material" />
+    </item>
+    <item type="material" >
+      <file name="FrontCol.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_B.001.material" />
+    </item>
+    <item type="material" >
+      <file name="separado.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_E0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_14.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_15.001.material" />
+    </item>
+    <item type="material" >
+      <file name="monito02.001.material" />
+    </item>
+    <item type="material" >
+      <file name="_066_Hon.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_03.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_04.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_07.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_C.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_alm.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_L0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="TEXTUR01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_p01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Metal_St.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color02.001.material" />
+    </item>
+    <item type="material" >
+      <file name="textura.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_12.001.material" />
+    </item>
+    <item type="material" >
+      <file name="_080_Dar.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_16.001.material" />
+    </item>
+    <item type="material" >
+      <file name="TEXTURA.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_C0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_caf.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_08.001.material" />
+    </item>
+    <item type="material" >
+      <file name="motores.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_J0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_H0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_L1.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_tex.001.material" />
+    </item>
+    <item type="material" >
+      <file name="TEXT_NAV.001.material" />
+    </item>
+    <item type="material" >
+      <file name="pared_es.001.material" />
+    </item>
+    <item type="material" >
+      <file name="textu_01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Caja_t02.001.material" />
+    </item>
+    <item type="material" >
+      <file name="PISO_MED.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_D.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Caja_tex.001.material" />
+    </item>
+    <item type="material" >
+      <file name="_087_Cya.001.material" />
+    </item>
+    <item type="material" >
+      <file name="text_c01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_A0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Transluc.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_t01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_13.001.material" />
+    </item>
+    <item type="material" >
+      <file name="medicina.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_cam.001.material" />
+    </item>
+    <item type="material" >
+      <file name="pared_al.001.material" />
+    </item>
+    <item type="material" >
+      <file name="_135_Dar.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_06.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color03.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_05.001.material" />
+    </item>
+    <item type="material" >
+      <file name="reacto01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_09.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_t04.001.material" />
+    </item>
+    <item type="material" >
+      <file name="monitor.001.material" />
+    </item>
+    <item type="material" >
+      <file name="paredes.001.material" />
+    </item>
+    <item type="material" >
+      <file name="test_med.001.material" />
+    </item>
+    <item type="material" >
+      <file name="PISO_M01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_17.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_M0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Transl01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_t02.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Formica.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_11.001.material" />
+    </item>
+    <item type="material" >
+      <file name="monito01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="textu_pi.001.material" />
+    </item>
+    <item type="material" >
+      <file name="pared_ca.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_I.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_02.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_t03.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_ele.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_10.001.material" />
+    </item>
+    <item type="material" >
+      <file name="piso_com.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Caja_t01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Quartz_L.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Groundco.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Caja_t03.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_H.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Formic01.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Water_Da.001.material" />
+    </item>
+    <item type="material" >
+      <file name="reactor.001.material" />
+    </item>
+    <item type="material" >
+      <file name="Color_D0.001.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.050876" g="0.050876" r="0.050876" />
+  </environment>
+</scene>

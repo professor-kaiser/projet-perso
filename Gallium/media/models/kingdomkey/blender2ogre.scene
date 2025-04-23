@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.9.0 -->
+<!-- export_time: Sun, 13 Apr 2025 18:48:22 +0000 -->
+<!-- blender_version: 3.6.21 (release; Linux) -->
+<scene author="professor" formatVersion="1.1" >
+  <nodes >
+    <node name="BezierCurve" >
+      <position x="0.000000" y="0.000000" z="-0.000000" />
+      <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="-0.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <entity meshFile="kingdomkey.mesh" name="BezierCurve" >
+        <userData />
+      </entity>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="Metal.material" />
+    </item>
+    <item type="material" >
+      <file name="Blue_Metal.material" />
+    </item>
+    <item type="material" >
+      <file name="HandleBlack.material" />
+    </item>
+    <item type="material" >
+      <file name="Metal_Rough.material" />
+    </item>
+    <item type="material" >
+      <file name="Cylinder_Yellow.material" />
+    </item>
+    <item type="material" >
+      <file name="Yellow_Handle.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.050876" g="0.050876" r="0.050876" />
+  </environment>
+</scene>

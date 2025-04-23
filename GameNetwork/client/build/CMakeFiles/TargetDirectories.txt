@@ -1,0 +1,3 @@
+/home/professor/Documents/L3/Ogre/GameNetwork/client/build/CMakeFiles/client.dir
+/home/professor/Documents/L3/Ogre/GameNetwork/client/build/CMakeFiles/edit_cache.dir
+/home/professor/Documents/L3/Ogre/GameNetwork/client/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+21:27:28: Creating resource group General
+21:27:28: Creating resource group OgreInternal
+21:27:28: Creating resource group OgreAutodetect
+21:27:28: Registering ResourceManager for type Mesh
+21:27:28: Registering ResourceManager for type Material
+21:27:28: Registering ResourceManager for type Skeleton
+21:27:28: XMLSkeletonSerializer: reading XML data from /home/professor/Documents/L3/Ogre/Template/media/models/VLN001/SKM_Six.md.skeleton.xml...
+21:27:28: XMLSkeletonSerializer: Reading Bones name...
+21:27:28: XMLSkeletonSerializer: Reading Hierarchy data...
+21:27:28: XMLSkeletonSerializer: Reading Bones data...
+21:27:28: XMLSkeletonSerializer: Reading Animations data...
+21:27:28: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+21:27:28: Exporting bones..
+21:27:28: Bones exported.
+21:27:28: Exporting animations, count=10
+21:27:28: Exporting animation: Runing
+21:27:28: Animation exported.
+21:27:28: Exporting animation: SixHangFallJump
+21:27:28: Animation exported.
+21:27:28: Exporting animation: SixPutOnCoat
+21:27:28: Animation exported.
+21:27:28: Exporting animation: TVForceIdleLow
+21:27:28: Animation exported.
+21:27:28: Exporting animation: TVIdleBonusEnding
+21:27:28: Animation exported.
+21:27:28: Exporting animation: WakeUpInTransmission
+21:27:28: Animation exported.
+21:27:28: Exporting animation: WakeUp_AfterShute
+21:27:28: Animation exported.
+21:27:28: Exporting animation: XrayPlay
+21:27:28: Animation exported.
+21:27:28: Exporting animation: XrayPlayItem
+21:27:28: Animation exported.
+21:27:28: Exporting animation: tvPullupIdle
+21:27:28: Animation exported.
+21:27:28: Unregistering ResourceManager for type Skeleton
+21:27:28: Unregistering ResourceManager for type Material
+21:27:28: Unregistering ResourceManager for type Mesh

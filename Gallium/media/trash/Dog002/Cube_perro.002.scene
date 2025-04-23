@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.9.0 -->
+<!-- export_time: Tue, 18 Mar 2025 19:07:23 +0000 -->
+<!-- blender_version: 3.6.21 (release; Linux) -->
+<!-- previous_export_time: Tue, 18 Mar 2025 19:04:56 +0000 -->
+<scene author="professor" formatVersion="1.1" >
+  <nodes >
+    <node name="Armature_perro_AZUL" >
+      <position x="-0.000000" y="0.000000" z="0.000000" />
+      <rotation qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <node name="Cube_perro" >
+        <position x="-0.000000" y="0.000000" z="-0.000000" />
+        <rotation qw="1.000000" qx="-0.000000" qy="0.000000" qz="-0.000000" />
+        <scale x="1.000000" y="1.000000" z="1.000000" />
+        <entity meshFile="Cube_perro.002.mesh" name="Cube_perro" >
+          <userData />
+        </entity>
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="ROSA.002.material" />
+    </item>
+    <item type="material" >
+      <file name="BLANCO.006.material" />
+    </item>
+    <item type="material" >
+      <file name="NEGRO.007.material" />
+    </item>
+    <item type="material" >
+      <file name="borde.002.material" />
+    </item>
+    <item type="material" >
+      <file name="perro.002.material" />
+    </item>
+    <item type="material" >
+      <file name="BLANCO_ojo.002.material" />
+    </item>
+    <item type="material" >
+      <file name="Material.003.material" />
+    </item>
+    <item type="material" >
+      <file name="NEGRO.008.material" />
+    </item>
+    <item type="material" >
+      <file name="AZUL.002.material" />
+    </item>
+    <item type="material" >
+      <file name="NEGRO.006.material" />
+    </item>
+    <item type="material" >
+      <file name="lengua.002.material" />
+    </item>
+    <item type="material" >
+      <file name="NARANJA.002.material" />
+    </item>
+    <item type="material" >
+      <file name="b2.002.material" />
+    </item>
+    <item type="material" >
+      <file name="BLANCO.005.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.050876" g="0.050876" r="0.050876" />
+  </environment>
+</scene>

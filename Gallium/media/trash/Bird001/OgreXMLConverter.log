@@ -1,0 +1,20 @@
+22:54:40: Creating resource group General
+22:54:40: Creating resource group OgreInternal
+22:54:40: Creating resource group OgreAutodetect
+22:54:40: Registering ResourceManager for type Mesh
+22:54:40: Registering ResourceManager for type Material
+22:54:40: Registering ResourceManager for type Skeleton
+22:54:40: XMLSkeletonSerializer: reading XML data from /home/professor/Documents/L3/Wall-E/media/models/Bird001/bird.skeleton.xml...
+22:54:40: XMLSkeletonSerializer: Reading Bones name...
+22:54:40: XMLSkeletonSerializer: Reading Hierarchy data...
+22:54:40: XMLSkeletonSerializer: Reading Bones data...
+22:54:40: XMLSkeletonSerializer: Reading Animations data...
+22:54:40: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+22:54:40: Exporting bones..
+22:54:40: Bones exported.
+22:54:40: Exporting animations, count=1
+22:54:40: Exporting animation: fly
+22:54:40: Animation exported.
+22:54:40: Unregistering ResourceManager for type Skeleton
+22:54:40: Unregistering ResourceManager for type Material
+22:54:40: Unregistering ResourceManager for type Mesh

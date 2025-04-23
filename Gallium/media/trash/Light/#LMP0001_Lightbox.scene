@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- exporter: blender2ogre 0.9.0 -->
+<!-- export_time: Wed, 19 Mar 2025 06:31:11 +0000 -->
+<!-- blender_version: 3.6.21 (release; Linux) -->
+<!-- previous_export_time: Wed, 19 Mar 2025 06:29:39 +0000 -->
+<scene author="professor" formatVersion="1.1" >
+  <nodes >
+    <node name="#LMP0001_Lightbox" >
+      <position x="-0.000000" y="0.000000" z="0.000000" />
+      <rotation qw="1.000000" qx="-0.000000" qy="0.000000" qz="0.000000" />
+      <scale x="1.000000" y="1.000000" z="1.000000" />
+      <entity meshFile="#LMP0001_Lightbox.mesh" name="#LMP0001_Lightbox" >
+        <userData />
+      </entity>
+      <node name="#LMP0001_Spotlight" >
+        <position x="0.000000" y="1.718810" z="-0.430443" />
+        <rotation qw="0.707107" qx="0.707107" qy="-0.000000" qz="-0.000000" />
+        <scale x="1.000000" y="1.000000" z="1.000000" />
+        <light name="#LMP0001_Spotlight" powerScale="100.0" type="spot" >
+          <colourDiffuse b="1.000000" g="1.000000" r="1.000000" />
+          <colourSpecular b="1.000000" g="1.000000" r="1.000000" />
+          <lightRange falloff="1.0" inner="1.3351769055676677" outer="1.5707963705062866" />
+          <lightAttenuation constant="1.0" linear="1.125000" quadratic="4.687500" range="40.0" />
+        </light>
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="#LMP0001_Textures.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground b="0.050876" g="0.050876" r="0.050876" />
+  </environment>
+</scene>

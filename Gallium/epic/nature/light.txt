@@ -1,0 +1,34 @@
+/*
+			if(i == 0)
+			{
+			    Ogre::Light* spotLight = sceneManager_->createLight("SpotLight");
+				spotLight->setType(Ogre::Light::LT_SPOTLIGHT);
+
+				spotLight->setDiffuseColour(0.0, 20.0, 10.0);
+				spotLight->setSpecularColour(0.6, 2.0, 0.6);
+				spotLight->setPowerScale(1000.0);
+				spotLight->setAttenuation(800.0, 1.0, 0.01, 0.0);
+				spotLight->setSpotlightRange(Ogre::Degree(0), Ogre::Degree(180));
+
+				Ogre::SceneNode* spotLightNode = perso->getSceneNode()->createChildSceneNode();
+				spotLightNode->attachObject(spotLight);
+				spotLightNode->setDirection(Ogre::Vector3(0, -1, 0));
+				spotLightNode->setPosition(Ogre::Vector3(0, perso->height(), 0));
+			}
+			else if(i == 1)
+			{
+				Ogre::Light* spotLight = sceneManager_->createLight("SpotLight1");
+				spotLight->setType(Ogre::Light::LT_SPOTLIGHT);
+
+				spotLight->setDiffuseColour(20.0, 0.0, 0.0);
+				spotLight->setSpecularColour(2.0, 0.6, 0.6);
+				spotLight->setPowerScale(1000.0);
+				spotLight->setAttenuation(800.0, 1.0, 0.01, 0.0);
+				spotLight->setSpotlightRange(Ogre::Degree(0), Ogre::Degree(180));
+
+				Ogre::SceneNode* spotLightNode = perso->getSceneNode()->createChildSceneNode();
+				spotLightNode->attachObject(spotLight);
+				spotLightNode->setDirection(Ogre::Vector3(0, -1, 0));
+				spotLightNode->setPosition(Ogre::Vector3(0, perso->height(), 0));
+			}
+*/

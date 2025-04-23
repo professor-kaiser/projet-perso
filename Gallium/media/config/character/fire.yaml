@@ -1,0 +1,27 @@
+properties:
+    mesh: "FireCommand.mesh"
+    speed: 900
+    scale: 0.7
+    mass: 12
+    position: {x: 5500, y: 200, z: -2000}
+
+    animations:
+        - action: "RUN"
+          code: 'a'
+          name: "move"
+          loop: true
+
+        - action: "IDLE"
+          code: 'i'
+          name: "idle"
+          loop: true
+
+        - action: "JUMP"
+          code: 'j'
+          name: "yell"
+          loop: false
+
+        - action: "CHARGE"
+          code: 'z'
+          name: "chargeStart"
+          loop: false

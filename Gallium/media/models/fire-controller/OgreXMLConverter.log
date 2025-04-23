@@ -1,0 +1,28 @@
+11:31:44: Creating resource group General
+11:31:44: Creating resource group OgreInternal
+11:31:44: Creating resource group OgreAutodetect
+11:31:44: Registering ResourceManager for type Mesh
+11:31:44: Registering ResourceManager for type Material
+11:31:44: Registering ResourceManager for type Skeleton
+11:31:44: XMLSkeletonSerializer: reading XML data from /home/professor/Documents/L3/Ogre/Gallium/media/models/fire-controller/FireCommand.skeleton.xml...
+11:31:44: XMLSkeletonSerializer: Reading Bones name...
+11:31:44: XMLSkeletonSerializer: Reading Hierarchy data...
+11:31:44: XMLSkeletonSerializer: Reading Bones data...
+11:31:44: XMLSkeletonSerializer: Reading Animations data...
+11:31:44: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+11:31:44: Exporting bones..
+11:31:44: Bones exported.
+11:31:44: Exporting animations, count=5
+11:31:44: Exporting animation: chargeStart
+11:31:44: Animation exported.
+11:31:44: Exporting animation: die
+11:31:44: Animation exported.
+11:31:44: Exporting animation: idle
+11:31:44: Animation exported.
+11:31:44: Exporting animation: move
+11:31:44: Animation exported.
+11:31:44: Exporting animation: yell
+11:31:44: Animation exported.
+11:31:44: Unregistering ResourceManager for type Skeleton
+11:31:44: Unregistering ResourceManager for type Material
+11:31:44: Unregistering ResourceManager for type Mesh
